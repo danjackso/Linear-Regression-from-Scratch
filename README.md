@@ -2,4 +2,4 @@
 Building a linear regression model from scratch
 
 
-![Test Image 1](My Movie 2.mp4)
+![Test Image 1](Linear_regression_video.mp4)
